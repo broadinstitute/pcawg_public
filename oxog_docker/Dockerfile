@@ -1,4 +1,6 @@
 
+# TODO:
+# v1.9.2.0 for oncotator
 # Pull base image.
 FROM ubuntu:14.04
 
