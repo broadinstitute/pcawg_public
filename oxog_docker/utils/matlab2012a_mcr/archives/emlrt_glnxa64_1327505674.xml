@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>emlrt</componentBaseName>
+    <componentFileName>emlrt_glnxa64_1327505674.enc</componentFileName>
+    <componentName>emlrt_glnxa64</componentName>
+    <componentVersion>1327505674</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>109244</size>
+    <type></type>
+    <uncompressedBytes>285040</uncompressedBytes>
+  </component>
+</componentData>

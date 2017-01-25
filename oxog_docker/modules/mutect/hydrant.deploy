@@ -1,0 +1,18 @@
+[task]
+type = standard
+command = ${text scatter.jobs} ${text,optional "--read_group_black_list " lane.blacklist} --analysis_type MuTect ${text,optional "--intervals " targets.interval.list} ${text,optional "--normal_sample_name " normal.name} ${text,optional "-I\:normal " normal.bam} --tumor_sample_name ${text tumor.name} -I\:tumor ${text tumor.bam} --reference_sequence ${text reference.sequence.fasta} ${text,optional "--dbsnp " dbsnp.vcf} ${text,optional "--cosmic " cosmic.vcf} ${text,optional "--normal_panel " normal.panel.vcf} --out ${text output.prefix}.call_stats.txt --coverage_file ${text output.prefix}.coverage.wig.txt --power_file ${text output.prefix}.power.wig.txt --downsample_to_coverage ${text downsample.to.coverage=10000} --enable_extended_output --fraction_contamination ${text fraction.contamination} ${text,optional optional.parameter.1}  ${text,optional optional.parameter.2} ${text,optional optional.parameter.3} ${text,optional optional.parameter.4} ${text,optional optional.parameter.5}
+version: 0.0.7
+name = CallSomaticMutations
+project = None
+projectDirs = .
+build = None
+buildDir = .
+execDir = .
+installTarget = firehose
+description = Call somatic mutations
+fileFormats = coverage.wig.txt;coverage.q20.wig.txt;call_stats.txt
+
+[runtime]
+executor = ScatterGather
+max_memory = 1
+fail_on_stderr = false

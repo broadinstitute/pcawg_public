@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/rookfastbp</componentBaseName>
+    <componentFileName>3p/rookfastbp_glnxa64_1325136814.enc</componentFileName>
+    <componentName>3p/rookfastbp_glnxa64</componentName>
+    <componentVersion>1325136814</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>95045</size>
+    <type></type>
+    <uncompressedBytes>219907</uncompressedBytes>
+  </component>
+</componentData>

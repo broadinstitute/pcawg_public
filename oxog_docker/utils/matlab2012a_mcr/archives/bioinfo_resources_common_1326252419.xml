@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>bioinfo_resources</componentBaseName>
+    <componentFileName>bioinfo_resources_common_1326252419.enc</componentFileName>
+    <componentName>bioinfo_resources_common</componentName>
+    <componentVersion>1326252419</componentVersion>
+    <locale></locale>
+    <numFiles>296</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>149189</size>
+    <type></type>
+    <uncompressedBytes>226815</uncompressedBytes>
+  </component>
+</componentData>

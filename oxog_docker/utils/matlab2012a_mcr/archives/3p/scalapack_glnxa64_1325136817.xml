@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/scalapack</componentBaseName>
+    <componentFileName>3p/scalapack_glnxa64_1325136817.enc</componentFileName>
+    <componentName>3p/scalapack_glnxa64</componentName>
+    <componentVersion>1325136817</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>2099212</size>
+    <type></type>
+    <uncompressedBytes>5058108</uncompressedBytes>
+  </component>
+</componentData>

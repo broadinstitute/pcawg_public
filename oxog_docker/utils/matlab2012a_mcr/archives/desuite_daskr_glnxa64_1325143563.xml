@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>desuite_daskr</componentBaseName>
+    <componentFileName>desuite_daskr_glnxa64_1325143563.enc</componentFileName>
+    <componentName>desuite_daskr_glnxa64</componentName>
+    <componentVersion>1325143563</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>75163</size>
+    <type></type>
+    <uncompressedBytes>261088</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>sl_loadsave</componentBaseName>
+    <componentFileName>sl_loadsave_common_1328824764.enc</componentFileName>
+    <componentName>sl_loadsave_common</componentName>
+    <componentVersion>1328824764</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>543</size>
+    <type></type>
+    <uncompressedBytes>1393</uncompressedBytes>
+  </component>
+</componentData>

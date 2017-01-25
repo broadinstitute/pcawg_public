@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_asynciolib</componentBaseName>
+    <componentFileName>shared_asynciolib_common_1325139125.enc</componentFileName>
+    <componentName>shared_asynciolib_common</componentName>
+    <componentVersion>1325139125</componentVersion>
+    <locale></locale>
+    <numFiles>8</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>14093</size>
+    <type></type>
+    <uncompressedBytes>47090</uncompressedBytes>
+  </component>
+</componentData>

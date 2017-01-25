@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>cgir_core</componentBaseName>
+    <componentFileName>cgir_core_common_1326253663.enc</componentFileName>
+    <componentName>cgir_core_common</componentName>
+    <componentVersion>1326253663</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>2077</size>
+    <type></type>
+    <uncompressedBytes>8101</uncompressedBytes>
+  </component>
+</componentData>

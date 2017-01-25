@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_kernel</componentBaseName>
+    <componentFileName>matlab_kernel_glnxa64_1328824677.enc</componentFileName>
+    <componentName>matlab_kernel_glnxa64</componentName>
+    <componentVersion>1328824677</componentVersion>
+    <locale></locale>
+    <numFiles>91</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>20183432</size>
+    <type></type>
+    <uncompressedBytes>80266326</uncompressedBytes>
+  </component>
+</componentData>

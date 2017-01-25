@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/lapack</componentBaseName>
+    <componentFileName>3p/lapack_glnxa64_1325136813.enc</componentFileName>
+    <componentName>3p/lapack_glnxa64</componentName>
+    <componentVersion>1325136813</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>2543479</size>
+    <type></type>
+    <uncompressedBytes>5659463</uncompressedBytes>
+  </component>
+</componentData>

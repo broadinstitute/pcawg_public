@@ -1,0 +1,40 @@
+[task]
+command = perl <libdir>call_stats_to_maflite.pl ${file input.call_stats.file} ${text genome.build} ${text mode} ${text,optional f_threshold=0} ${text,optional triallelic_mode_KEEP_or_REJECT=KEEP} ${text output.prefix}.maf ${text,optional extra.columns}
+name = CallstatsToMaflite
+installtarget = firehose
+description = convert call_stats file to maf ('maflite') file
+fileformats = maf
+author = kcibul
+
+[runtime]
+executor = LSF
+max_memory = 1
+fail_on_stderr = False
+
+[output.prefix]
+description = prefix for naming output maf file
+value =
+
+[input.call_stats.file]
+description = name of input (call_stats) file
+value =
+
+[extra.columns]
+description = additional columns from the call_stats to pass along to the maflite
+value =
+
+[genome.build]
+description = genome build to use in the output maf
+value =
+
+[mode]
+description = mode of filtering for results
+value =
+
+[f_threshold]
+description = minimum allele fraction event to retain
+value =
+
+[triallelic_mode_KEEP_or_REJECT]
+description = the value KEEP to retain triallelic flagged sites, or REJECT to continue rejecting them
+value =

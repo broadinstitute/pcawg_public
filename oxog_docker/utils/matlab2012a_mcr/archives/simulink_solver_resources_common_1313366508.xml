@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_solver_resources</componentBaseName>
+    <componentFileName>simulink_solver_resources_common_1313366508.enc</componentFileName>
+    <componentName>simulink_solver_resources_common</componentName>
+    <componentVersion>1313366508</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>3302</size>
+    <type></type>
+    <uncompressedBytes>7849</uncompressedBytes>
+  </component>
+</componentData>

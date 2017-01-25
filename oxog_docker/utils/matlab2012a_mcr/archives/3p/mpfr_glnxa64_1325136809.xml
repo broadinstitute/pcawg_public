@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/mpfr</componentBaseName>
+    <componentFileName>3p/mpfr_glnxa64_1325136809.enc</componentFileName>
+    <componentName>3p/mpfr_glnxa64</componentName>
+    <componentVersion>1325136809</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>142539</size>
+    <type></type>
+    <uncompressedBytes>299839</uncompressedBytes>
+  </component>
+</componentData>

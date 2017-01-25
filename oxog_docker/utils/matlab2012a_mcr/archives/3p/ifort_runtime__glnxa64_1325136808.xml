@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/ifort_runtime_</componentBaseName>
+    <componentFileName>3p/ifort_runtime__glnxa64_1325136808.enc</componentFileName>
+    <componentName>3p/ifort_runtime__glnxa64</componentName>
+    <componentVersion>1325136808</componentVersion>
+    <locale></locale>
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>4625239</size>
+    <type></type>
+    <uncompressedBytes>13094703</uncompressedBytes>
+  </component>
+</componentData>

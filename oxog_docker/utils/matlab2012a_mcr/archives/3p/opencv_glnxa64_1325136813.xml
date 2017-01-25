@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/opencv</componentBaseName>
+    <componentFileName>3p/opencv_glnxa64_1325136813.enc</componentFileName>
+    <componentName>3p/opencv_glnxa64</componentName>
+    <componentVersion>1325136813</componentVersion>
+    <locale></locale>
+    <numFiles>11</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>2947921</size>
+    <type></type>
+    <uncompressedBytes>7086511</uncompressedBytes>
+  </component>
+</componentData>

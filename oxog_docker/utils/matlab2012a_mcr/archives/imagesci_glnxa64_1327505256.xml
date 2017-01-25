@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>imagesci</componentBaseName>
+    <componentFileName>imagesci_glnxa64_1327505256.enc</componentFileName>
+    <componentName>imagesci_glnxa64</componentName>
+    <componentVersion>1327505256</componentVersion>
+    <locale></locale>
+    <numFiles>41</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1620465</size>
+    <type></type>
+    <uncompressedBytes>3832824</uncompressedBytes>
+  </component>
+</componentData>

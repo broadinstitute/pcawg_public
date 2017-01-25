@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>mcrversion</componentBaseName>
+    <componentFileName>mcrversion_common_1325136893.enc</componentFileName>
+    <componentName>mcrversion_common</componentName>
+    <componentVersion>1325136893</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>167</size>
+    <type></type>
+    <uncompressedBytes>5</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_imaqlib_resources</componentBaseName>
+    <componentFileName>shared_imaqlib_resources_common_1294435804.enc</componentFileName>
+    <componentName>shared_imaqlib_resources_common</componentName>
+    <componentVersion>1294435804</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>516</size>
+    <type></type>
+    <uncompressedBytes>675</uncompressedBytes>
+  </component>
+</componentData>

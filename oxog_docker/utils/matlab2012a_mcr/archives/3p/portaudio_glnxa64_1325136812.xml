@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/portaudio</componentBaseName>
+    <componentFileName>3p/portaudio_glnxa64_1325136812.enc</componentFileName>
+    <componentName>3p/portaudio_glnxa64</componentName>
+    <componentVersion>1325136812</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>67511</size>
+    <type></type>
+    <uncompressedBytes>192547</uncompressedBytes>
+  </component>
+</componentData>

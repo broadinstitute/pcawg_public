@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>coder_resources</componentBaseName>
+    <componentFileName>coder_resources_glnxa64_1326130824.enc</componentFileName>
+    <componentName>coder_resources_glnxa64</componentName>
+    <componentVersion>1326130824</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>116536</size>
+    <type></type>
+    <uncompressedBytes>564008</uncompressedBytes>
+  </component>
+</componentData>

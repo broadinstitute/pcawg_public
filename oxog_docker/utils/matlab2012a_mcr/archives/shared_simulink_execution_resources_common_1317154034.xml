@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulink_execution_resources</componentBaseName>
+    <componentFileName>shared_simulink_execution_resources_common_1317154034.enc</componentFileName>
+    <componentName>shared_simulink_execution_resources_common</componentName>
+    <componentVersion>1317154034</componentVersion>
+    <locale></locale>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>3440</size>
+    <type></type>
+    <uncompressedBytes>6553</uncompressedBytes>
+  </component>
+</componentData>

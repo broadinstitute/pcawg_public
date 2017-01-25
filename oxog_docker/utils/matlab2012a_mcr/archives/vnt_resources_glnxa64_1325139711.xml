@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>vnt_resources</componentBaseName>
+    <componentFileName>vnt_resources_glnxa64_1325139711.enc</componentFileName>
+    <componentName>vnt_resources_glnxa64</componentName>
+    <componentVersion>1325139711</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>5578</size>
+    <type></type>
+    <uncompressedBytes>13408</uncompressedBytes>
+  </component>
+</componentData>

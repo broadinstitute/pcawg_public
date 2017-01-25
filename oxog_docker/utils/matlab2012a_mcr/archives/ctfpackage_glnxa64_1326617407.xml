@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>ctfpackage</componentBaseName>
+    <componentFileName>ctfpackage_glnxa64_1326617407.enc</componentFileName>
+    <componentName>ctfpackage_glnxa64</componentName>
+    <componentVersion>1326617407</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>133327</size>
+    <type></type>
+    <uncompressedBytes>380488</uncompressedBytes>
+  </component>
+</componentData>

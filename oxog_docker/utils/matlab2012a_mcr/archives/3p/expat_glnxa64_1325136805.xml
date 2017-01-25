@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/expat</componentBaseName>
+    <componentFileName>3p/expat_glnxa64_1325136805.enc</componentFileName>
+    <componentName>3p/expat_glnxa64</componentName>
+    <componentVersion>1325136805</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>68586</size>
+    <type></type>
+    <uncompressedBytes>180748</uncompressedBytes>
+  </component>
+</componentData>

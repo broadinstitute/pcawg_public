@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpoint_core</componentBaseName>
+    <componentFileName>fixedpoint_core_glnxa64_1327505644.enc</componentFileName>
+    <componentName>fixedpoint_core_glnxa64</componentName>
+    <componentVersion>1327505644</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>969245</size>
+    <type></type>
+    <uncompressedBytes>3759000</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulink_block</componentBaseName>
+    <componentFileName>shared_simulink_block_glnxa64_1328109128.enc</componentFileName>
+    <componentName>shared_simulink_block_glnxa64</componentName>
+    <componentVersion>1328109128</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>732239</size>
+    <type></type>
+    <uncompressedBytes>2089912</uncompressedBytes>
+  </component>
+</componentData>

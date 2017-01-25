@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>images_resources</componentBaseName>
+    <componentFileName>images_resources_common_1325004841.enc</componentFileName>
+    <componentName>images_resources_common</componentName>
+    <componentVersion>1325004841</componentVersion>
+    <locale></locale>
+    <numFiles>381</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>169996</size>
+    <type></type>
+    <uncompressedBytes>230352</uncompressedBytes>
+  </component>
+</componentData>

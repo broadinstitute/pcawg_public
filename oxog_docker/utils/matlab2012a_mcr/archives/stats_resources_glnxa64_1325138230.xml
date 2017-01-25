@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>stats_resources</componentBaseName>
+    <componentFileName>stats_resources_glnxa64_1325138230.enc</componentFileName>
+    <componentName>stats_resources_glnxa64</componentName>
+    <componentVersion>1325138230</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>27593</size>
+    <type></type>
+    <uncompressedBytes>109408</uncompressedBytes>
+  </component>
+</componentData>

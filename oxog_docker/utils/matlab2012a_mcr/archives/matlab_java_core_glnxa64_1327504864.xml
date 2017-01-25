@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_java_core</componentBaseName>
+    <componentFileName>matlab_java_core_glnxa64_1327504864.enc</componentFileName>
+    <componentName>matlab_java_core_glnxa64</componentName>
+    <componentVersion>1327504864</componentVersion>
+    <locale></locale>
+    <numFiles>9</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>586398</size>
+    <type></type>
+    <uncompressedBytes>2196032</uncompressedBytes>
+  </component>
+</componentData>

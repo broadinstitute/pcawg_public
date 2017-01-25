@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>foundation_libraries</componentBaseName>
+    <componentFileName>foundation_libraries_glnxa64_1327503122.enc</componentFileName>
+    <componentName>foundation_libraries_glnxa64</componentName>
+    <componentVersion>1327503122</componentVersion>
+    <locale></locale>
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1244113</size>
+    <type></type>
+    <uncompressedBytes>3580523</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_graphics</componentBaseName>
+    <componentFileName>matlab_graphics_glnxa64_1327505502.enc</componentFileName>
+    <componentName>matlab_graphics_glnxa64</componentName>
+    <componentVersion>1327505502</componentVersion>
+    <locale></locale>
+    <numFiles>19</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>12811932</size>
+    <type></type>
+    <uncompressedBytes>47544044</uncompressedBytes>
+  </component>
+</componentData>

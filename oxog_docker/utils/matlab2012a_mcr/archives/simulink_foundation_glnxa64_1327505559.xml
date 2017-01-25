@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_foundation</componentBaseName>
+    <componentFileName>simulink_foundation_glnxa64_1327505559.enc</componentFileName>
+    <componentName>simulink_foundation_glnxa64</componentName>
+    <componentVersion>1327505559</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>751748</size>
+    <type></type>
+    <uncompressedBytes>2446568</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/opengl</componentBaseName>
+    <componentFileName>3p/opengl_glnxa64_1325136807.enc</componentFileName>
+    <componentName>3p/opengl_glnxa64</componentName>
+    <componentVersion>1325136807</componentVersion>
+    <locale></locale>
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1351726</size>
+    <type></type>
+    <uncompressedBytes>3817475</uncompressedBytes>
+  </component>
+</componentData>

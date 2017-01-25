@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/spqr</componentBaseName>
+    <componentFileName>3p/spqr_glnxa64_1325136816.enc</componentFileName>
+    <componentName>3p/spqr_glnxa64</componentName>
+    <componentVersion>1325136816</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>60835</size>
+    <type></type>
+    <uncompressedBytes>154898</uncompressedBytes>
+  </component>
+</componentData>

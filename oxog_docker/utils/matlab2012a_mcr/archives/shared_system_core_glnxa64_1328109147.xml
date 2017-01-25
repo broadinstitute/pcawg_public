@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_system_core</componentBaseName>
+    <componentFileName>shared_system_core_glnxa64_1328109147.enc</componentFileName>
+    <componentName>shared_system_core_glnxa64</componentName>
+    <componentVersion>1328109147</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>249782</size>
+    <type></type>
+    <uncompressedBytes>721744</uncompressedBytes>
+  </component>
+</componentData>

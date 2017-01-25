@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>nnet_resources</componentBaseName>
+    <componentFileName>nnet_resources_common_1310591754.enc</componentFileName>
+    <componentName>nnet_resources_common</componentName>
+    <componentVersion>1310591754</componentVersion>
+    <locale></locale>
+    <numFiles>73</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>24563</size>
+    <type></type>
+    <uncompressedBytes>30927</uncompressedBytes>
+  </component>
+</componentData>

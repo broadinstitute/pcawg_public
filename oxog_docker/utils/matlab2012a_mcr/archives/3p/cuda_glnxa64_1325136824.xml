@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/cuda</componentBaseName>
+    <componentFileName>3p/cuda_glnxa64_1325136824.enc</componentFileName>
+    <componentName>3p/cuda_glnxa64</componentName>
+    <componentVersion>1325136824</componentVersion>
+    <locale></locale>
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>38537478</size>
+    <type></type>
+    <uncompressedBytes>217473776</uncompressedBytes>
+  </component>
+</componentData>

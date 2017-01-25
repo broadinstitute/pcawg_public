@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/xerces-c</componentBaseName>
+    <componentFileName>3p/xerces-c_glnxa64_1325136814.enc</componentFileName>
+    <componentName>3p/xerces-c_glnxa64</componentName>
+    <componentVersion>1325136814</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1377034</size>
+    <type></type>
+    <uncompressedBytes>5193324</uncompressedBytes>
+  </component>
+</componentData>

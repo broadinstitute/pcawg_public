@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>map_resources</componentBaseName>
+    <componentFileName>map_resources_glnxa64_1325139712.enc</componentFileName>
+    <componentName>map_resources_glnxa64</componentName>
+    <componentVersion>1325139712</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>10368</size>
+    <type></type>
+    <uncompressedBytes>31528</uncompressedBytes>
+  </component>
+</componentData>

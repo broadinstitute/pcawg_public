@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/png</componentBaseName>
+    <componentFileName>3p/png_glnxa64_1325136806.enc</componentFileName>
+    <componentName>3p/png_glnxa64</componentName>
+    <componentVersion>1325136806</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>77471</size>
+    <type></type>
+    <uncompressedBytes>170357</uncompressedBytes>
+  </component>
+</componentData>

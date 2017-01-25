@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_resources</componentBaseName>
+    <componentFileName>simulink_resources_glnxa64_1327071675.enc</componentFileName>
+    <componentName>simulink_resources_glnxa64</componentName>
+    <componentVersion>1327071675</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1607854</size>
+    <type></type>
+    <uncompressedBytes>8768672</uncompressedBytes>
+  </component>
+</componentData>

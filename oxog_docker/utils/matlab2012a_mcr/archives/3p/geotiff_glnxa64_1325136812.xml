@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/geotiff</componentBaseName>
+    <componentFileName>3p/geotiff_glnxa64_1325136812.enc</componentFileName>
+    <componentName>3p/geotiff_glnxa64</componentName>
+    <componentVersion>1325136812</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>61759</size>
+    <type></type>
+    <uncompressedBytes>204252</uncompressedBytes>
+  </component>
+</componentData>

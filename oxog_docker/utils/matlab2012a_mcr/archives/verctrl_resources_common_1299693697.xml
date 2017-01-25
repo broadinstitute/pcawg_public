@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>verctrl_resources</componentBaseName>
+    <componentFileName>verctrl_resources_common_1299693697.enc</componentFileName>
+    <componentName>verctrl_resources_common</componentName>
+    <componentVersion>1299693697</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1632</size>
+    <type></type>
+    <uncompressedBytes>5457</uncompressedBytes>
+  </component>
+</componentData>

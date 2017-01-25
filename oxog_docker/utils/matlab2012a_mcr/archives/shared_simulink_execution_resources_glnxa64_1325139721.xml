@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_simulink_execution_resources</componentBaseName>
+    <componentFileName>shared_simulink_execution_resources_glnxa64_1325139721.enc</componentFileName>
+    <componentName>shared_simulink_execution_resources_glnxa64</componentName>
+    <componentVersion>1325139721</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>18340</size>
+    <type></type>
+    <uncompressedBytes>71064</uncompressedBytes>
+  </component>
+</componentData>

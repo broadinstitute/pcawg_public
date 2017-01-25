@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_resources</componentBaseName>
+    <componentFileName>matlab_resources_glnxa64_1326615036.enc</componentFileName>
+    <componentName>matlab_resources_glnxa64</componentName>
+    <componentVersion>1326615036</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>688796</size>
+    <type></type>
+    <uncompressedBytes>3083712</uncompressedBytes>
+  </component>
+</componentData>

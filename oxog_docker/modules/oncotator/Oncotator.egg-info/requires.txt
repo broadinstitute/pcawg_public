@@ -1,0 +1,14 @@
+bcbio-gff
+pyvcf >= 0.6.3
+pysam == 0.7.5
+pandas
+biopython
+numpy
+cython
+shove
+sqlalchemy
+nose
+python-memcached
+natsort
+more-itertools
+enum34

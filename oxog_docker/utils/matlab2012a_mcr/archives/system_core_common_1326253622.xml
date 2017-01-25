@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>system_core</componentBaseName>
+    <componentFileName>system_core_common_1326253622.enc</componentFileName>
+    <componentName>system_core_common</componentName>
+    <componentVersion>1326253622</componentVersion>
+    <locale></locale>
+    <numFiles>13</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>6253</size>
+    <type></type>
+    <uncompressedBytes>7430</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>curvefit_resources</componentBaseName>
+    <componentFileName>curvefit_resources_common_1323113999.enc</componentFileName>
+    <componentName>curvefit_resources_common</componentName>
+    <componentVersion>1323113999</componentVersion>
+    <locale></locale>
+    <numFiles>99</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>50884</size>
+    <type></type>
+    <uncompressedBytes>88654</uncompressedBytes>
+  </component>
+</componentData>

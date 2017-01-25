@@ -1,0 +1,8 @@
+[console_scripts]
+Oncotator = oncotator.Oncotator:main
+addDatasourceMd5 = oncotator.addDatasourceMd5:main
+initializeTranscriptDatasource = oncotator.initializeTranscriptDatasource:main
+get_exons = oncotator.get_exons:main
+initializeDatasource = oncotator.initializeDataSource:main
+oncotator = oncotator.Oncotator:main
+

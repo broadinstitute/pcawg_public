@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_controllib_resources</componentBaseName>
+    <componentFileName>shared_controllib_resources_common_1321297618.enc</componentFileName>
+    <componentName>shared_controllib_resources_common</componentName>
+    <componentVersion>1321297618</componentVersion>
+    <locale></locale>
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>21482</size>
+    <type></type>
+    <uncompressedBytes>80849</uncompressedBytes>
+  </component>
+</componentData>

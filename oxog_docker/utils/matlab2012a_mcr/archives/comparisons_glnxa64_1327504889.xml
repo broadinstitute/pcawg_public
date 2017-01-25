@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>comparisons</componentBaseName>
+    <componentFileName>comparisons_glnxa64_1327504889.enc</componentFileName>
+    <componentName>comparisons_glnxa64</componentName>
+    <componentVersion>1327504889</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>4041</size>
+    <type></type>
+    <uncompressedBytes>9392</uncompressedBytes>
+  </component>
+</componentData>

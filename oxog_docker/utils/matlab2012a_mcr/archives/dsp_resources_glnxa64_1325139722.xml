@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>dsp_resources</componentBaseName>
+    <componentFileName>dsp_resources_glnxa64_1325139722.enc</componentFileName>
+    <componentName>dsp_resources_glnxa64</componentName>
+    <componentVersion>1325139722</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>131391</size>
+    <type></type>
+    <uncompressedBytes>708584</uncompressedBytes>
+  </component>
+</componentData>

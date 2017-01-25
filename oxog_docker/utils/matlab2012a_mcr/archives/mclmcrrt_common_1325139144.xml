@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>mclmcrrt</componentBaseName>
+    <componentFileName>mclmcrrt_common_1325139144.enc</componentFileName>
+    <componentName>mclmcrrt_common</componentName>
+    <componentVersion>1325139144</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>12228</size>
+    <type></type>
+    <uncompressedBytes>142633</uncompressedBytes>
+  </component>
+</componentData>

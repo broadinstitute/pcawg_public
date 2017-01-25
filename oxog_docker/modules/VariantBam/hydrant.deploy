@@ -1,0 +1,41 @@
+[task]
+author: Jeremiah Wala
+name: VariantBam
+
+####
+# Command line to be invoked to run this job
+#
+# To reference any files that are part of this module, prefix with <libdir>.
+####
+#command: <libdir>snow.sh <libdir>variant ${t "-i " input_bam} ${t "-o " output_bam_basename}.var.bam -r '${t sv_whole_genome_rule}' -r '${t,o mutsig_rule}' -g WG -g '${t,o mutsig_callstats};mate' ${t,o flags}; 
+command: <libdir>snow.sh <libdir>variant ${t "-i " input_bam} ${t "-o " output_bam_basename}.var.bam -r '${t sv_whole_genome_rule}' -g WG ${t,o flags}; 
+
+####
+# Task description
+####
+description: Snowman SV detection RUN step
+
+####
+# Colon separated list of directories to be included in this project
+####
+projectDirs: .
+
+####
+# buildDir is the directory (relative to hydrant.deploy) where the build command will be run
+####
+#buildDir: .
+#build:
+
+####
+# directory (relative to buildDir) where executables will be stored.  Defaults to current working directory
+####
+#execDir: .
+
+[runtime]
+
+[flags]
+description: Additional flags to pass to variant-bam. 
+
+
+
+[job.spec.memory]

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/tex-archive</componentBaseName>
+    <componentFileName>3p/tex-archive_common_1316554911.enc</componentFileName>
+    <componentName>3p/tex-archive_common</componentName>
+    <componentVersion>1316554911</componentVersion>
+    <locale></locale>
+    <numFiles>312</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>4805765</size>
+    <type></type>
+    <uncompressedBytes>6769236</uncompressedBytes>
+  </component>
+</componentData>

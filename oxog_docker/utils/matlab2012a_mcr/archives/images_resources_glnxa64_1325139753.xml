@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>images_resources</componentBaseName>
+    <componentFileName>images_resources_glnxa64_1325139753.enc</componentFileName>
+    <componentName>images_resources_glnxa64</componentName>
+    <componentVersion>1325139753</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>60364</size>
+    <type></type>
+    <uncompressedBytes>245840</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/freehepvectorgraphicsv2</componentBaseName>
+    <componentFileName>3p/freehepvectorgraphicsv2_common_1325136812.enc</componentFileName>
+    <componentName>3p/freehepvectorgraphicsv2_common</componentName>
+    <componentVersion>1325136812</componentVersion>
+    <locale></locale>
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>804457</size>
+    <type></type>
+    <uncompressedBytes>903172</uncompressedBytes>
+  </component>
+</componentData>

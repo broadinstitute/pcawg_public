@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>fixed_resources</componentBaseName>
+    <componentFileName>fixed_resources_glnxa64_1325139727.enc</componentFileName>
+    <componentName>fixed_resources_glnxa64</componentName>
+    <componentVersion>1325139727</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>42476</size>
+    <type></type>
+    <uncompressedBytes>159024</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/cga/fh/pcawg_pipeline/modules/VariantBam/bamtools-2.1.0/lib

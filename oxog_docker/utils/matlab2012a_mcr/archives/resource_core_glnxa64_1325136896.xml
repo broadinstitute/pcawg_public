@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>resource_core</componentBaseName>
+    <componentFileName>resource_core_glnxa64_1325136896.enc</componentFileName>
+    <componentName>resource_core_glnxa64</componentName>
+    <componentVersion>1325136896</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>3426</size>
+    <type></type>
+    <uncompressedBytes>8000</uncompressedBytes>
+  </component>
+</componentData>

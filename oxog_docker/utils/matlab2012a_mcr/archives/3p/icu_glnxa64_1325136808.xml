@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/icu</componentBaseName>
+    <componentFileName>3p/icu_glnxa64_1325136808.enc</componentFileName>
+    <componentName>3p/icu_glnxa64</componentName>
+    <componentVersion>1325136808</componentVersion>
+    <locale></locale>
+    <numFiles>8</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>7215192</size>
+    <type></type>
+    <uncompressedBytes>19205592</uncompressedBytes>
+  </component>
+</componentData>

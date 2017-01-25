@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>desuite_resources</componentBaseName>
+    <componentFileName>desuite_resources_glnxa64_1325139721.enc</componentFileName>
+    <componentName>desuite_resources_glnxa64</componentName>
+    <componentVersion>1325139721</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>14637</size>
+    <type></type>
+    <uncompressedBytes>52536</uncompressedBytes>
+  </component>
+</componentData>

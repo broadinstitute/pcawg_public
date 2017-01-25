@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_testmeas</componentBaseName>
+    <componentFileName>shared_testmeas_glnxa64_1327505520.enc</componentFileName>
+    <componentName>shared_testmeas_glnxa64</componentName>
+    <componentVersion>1327505520</componentVersion>
+    <locale></locale>
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>256058</size>
+    <type></type>
+    <uncompressedBytes>835208</uncompressedBytes>
+  </component>
+</componentData>

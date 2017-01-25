@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>distcomp_jar</componentBaseName>
+    <componentFileName>distcomp_jar_glnxa64_1327505696.enc</componentFileName>
+    <componentName>distcomp_jar_glnxa64</componentName>
+    <componentVersion>1327505696</componentVersion>
+    <locale></locale>
+    <numFiles>5</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>212580</size>
+    <type></type>
+    <uncompressedBytes>835816</uncompressedBytes>
+  </component>
+</componentData>

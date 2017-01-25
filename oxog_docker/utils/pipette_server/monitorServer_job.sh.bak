@@ -1,0 +1,2 @@
+while true; do clear ; cat  /home/unix/root/pipette_queue/report/job.status.txt|grep RUN; sleep 10 ; done
+

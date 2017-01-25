@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>ws_client_core</componentBaseName>
+    <componentFileName>ws_client_core_common_1325136803.enc</componentFileName>
+    <componentName>ws_client_core_common</componentName>
+    <componentVersion>1325136803</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>21234</size>
+    <type></type>
+    <uncompressedBytes>26060</uncompressedBytes>
+  </component>
+</componentData>

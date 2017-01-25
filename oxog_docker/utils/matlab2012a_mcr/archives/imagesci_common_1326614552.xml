@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>imagesci</componentBaseName>
+    <componentFileName>imagesci_common_1326614552.enc</componentFileName>
+    <componentName>imagesci_common</componentName>
+    <componentVersion>1326614552</componentVersion>
+    <locale></locale>
+    <numFiles>963</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1075545</size>
+    <type></type>
+    <uncompressedBytes>2376117</uncompressedBytes>
+  </component>
+</componentData>

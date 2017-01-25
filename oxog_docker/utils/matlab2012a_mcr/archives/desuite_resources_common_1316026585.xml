@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>desuite_resources</componentBaseName>
+    <componentFileName>desuite_resources_common_1316026585.enc</componentFileName>
+    <componentName>desuite_resources_common</componentName>
+    <componentVersion>1316026585</componentVersion>
+    <locale></locale>
+    <numFiles>9</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>4388</size>
+    <type></type>
+    <uncompressedBytes>8244</uncompressedBytes>
+  </component>
+</componentData>

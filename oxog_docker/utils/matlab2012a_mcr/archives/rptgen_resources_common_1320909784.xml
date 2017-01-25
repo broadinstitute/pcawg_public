@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>rptgen_resources</componentBaseName>
+    <componentFileName>rptgen_resources_common_1320909784.enc</componentFileName>
+    <componentName>rptgen_resources_common</componentName>
+    <componentVersion>1320909784</componentVersion>
+    <locale></locale>
+    <numFiles>127</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>84711</size>
+    <type></type>
+    <uncompressedBytes>179439</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>audiovideo</componentBaseName>
+    <componentFileName>audiovideo_glnxa64_1327505635.enc</componentFileName>
+    <componentName>audiovideo_glnxa64</componentName>
+    <componentVersion>1327505635</componentVersion>
+    <locale></locale>
+    <numFiles>11</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>207986</size>
+    <type></type>
+    <uncompressedBytes>632216</uncompressedBytes>
+  </component>
+</componentData>

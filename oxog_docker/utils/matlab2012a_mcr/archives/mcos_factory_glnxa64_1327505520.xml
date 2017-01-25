@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>mcos_factory</componentBaseName>
+    <componentFileName>mcos_factory_glnxa64_1327505520.enc</componentFileName>
+    <componentName>mcos_factory_glnxa64</componentName>
+    <componentVersion>1327505520</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>224170</size>
+    <type></type>
+    <uncompressedBytes>860456</uncompressedBytes>
+  </component>
+</componentData>

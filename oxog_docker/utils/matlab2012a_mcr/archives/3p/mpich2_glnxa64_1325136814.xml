@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/mpich2</componentBaseName>
+    <componentFileName>3p/mpich2_glnxa64_1325136814.enc</componentFileName>
+    <componentName>3p/mpich2_glnxa64</componentName>
+    <componentVersion>1325136814</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>6193019</size>
+    <type></type>
+    <uncompressedBytes>21457502</uncompressedBytes>
+  </component>
+</componentData>

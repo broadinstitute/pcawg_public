@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>finderiv_resources</componentBaseName>
+    <componentFileName>finderiv_resources_common_1319310577.enc</componentFileName>
+    <componentName>finderiv_resources_common</componentName>
+    <componentVersion>1319310577</componentVersion>
+    <locale></locale>
+    <numFiles>203</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>88492</size>
+    <type></type>
+    <uncompressedBytes>108402</uncompressedBytes>
+  </component>
+</componentData>

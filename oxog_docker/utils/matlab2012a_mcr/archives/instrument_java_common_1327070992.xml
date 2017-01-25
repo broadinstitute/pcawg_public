@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>instrument_java</componentBaseName>
+    <componentFileName>instrument_java_common_1327070992.enc</componentFileName>
+    <componentName>instrument_java_common</componentName>
+    <componentVersion>1327070992</componentVersion>
+    <locale></locale>
+    <numFiles>57</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1509127</size>
+    <type></type>
+    <uncompressedBytes>1789260</uncompressedBytes>
+  </component>
+</componentData>

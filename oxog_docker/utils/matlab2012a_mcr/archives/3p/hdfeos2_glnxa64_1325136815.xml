@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/hdfeos2</componentBaseName>
+    <componentFileName>3p/hdfeos2_glnxa64_1325136815.enc</componentFileName>
+    <componentName>3p/hdfeos2_glnxa64</componentName>
+    <componentVersion>1325136815</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>189606</size>
+    <type></type>
+    <uncompressedBytes>430780</uncompressedBytes>
+  </component>
+</componentData>

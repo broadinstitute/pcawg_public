@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>signal_resources</componentBaseName>
+    <componentFileName>signal_resources_common_1326129113.enc</componentFileName>
+    <componentName>signal_resources_common</componentName>
+    <componentVersion>1326129113</componentVersion>
+    <locale></locale>
+    <numFiles>1085</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>448566</size>
+    <type></type>
+    <uncompressedBytes>468254</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/sundials</componentBaseName>
+    <componentFileName>3p/sundials_glnxa64_1325136807.enc</componentFileName>
+    <componentName>3p/sundials_glnxa64</componentName>
+    <componentVersion>1325136807</componentVersion>
+    <locale></locale>
+    <numFiles>10</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>289731</size>
+    <type></type>
+    <uncompressedBytes>684290</uncompressedBytes>
+  </component>
+</componentData>

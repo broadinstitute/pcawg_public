@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/fftw</componentBaseName>
+    <componentFileName>3p/fftw_glnxa64_1325136807.enc</componentFileName>
+    <componentName>3p/fftw_glnxa64</componentName>
+    <componentVersion>1325136807</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1319152</size>
+    <type></type>
+    <uncompressedBytes>3362070</uncompressedBytes>
+  </component>
+</componentData>

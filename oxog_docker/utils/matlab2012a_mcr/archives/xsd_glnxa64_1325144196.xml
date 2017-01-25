@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>xsd</componentBaseName>
+    <componentFileName>xsd_glnxa64_1325144196.enc</componentFileName>
+    <componentName>xsd_glnxa64</componentName>
+    <componentVersion>1325144196</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>79489</size>
+    <type></type>
+    <uncompressedBytes>307784</uncompressedBytes>
+  </component>
+</componentData>

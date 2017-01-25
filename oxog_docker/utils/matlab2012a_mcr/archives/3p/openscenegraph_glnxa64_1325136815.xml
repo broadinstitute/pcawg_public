@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/openscenegraph</componentBaseName>
+    <componentFileName>3p/openscenegraph_glnxa64_1325136815.enc</componentFileName>
+    <componentName>3p/openscenegraph_glnxa64</componentName>
+    <componentVersion>1325136815</componentVersion>
+    <locale></locale>
+    <numFiles>29</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>3425048</size>
+    <type></type>
+    <uncompressedBytes>10681892</uncompressedBytes>
+  </component>
+</componentData>

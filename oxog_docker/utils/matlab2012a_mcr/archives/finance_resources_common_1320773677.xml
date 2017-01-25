@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>finance_resources</componentBaseName>
+    <componentFileName>finance_resources_common_1320773677.enc</componentFileName>
+    <componentName>finance_resources_common</componentName>
+    <componentVersion>1320773677</componentVersion>
+    <locale></locale>
+    <numFiles>497</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>225921</size>
+    <type></type>
+    <uncompressedBytes>312538</uncompressedBytes>
+  </component>
+</componentData>

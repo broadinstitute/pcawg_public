@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/csparse</componentBaseName>
+    <componentFileName>3p/csparse_glnxa64_1325136805.enc</componentFileName>
+    <componentName>3p/csparse_glnxa64</componentName>
+    <componentVersion>1325136805</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>24432</size>
+    <type></type>
+    <uncompressedBytes>50452</uncompressedBytes>
+  </component>
+</componentData>

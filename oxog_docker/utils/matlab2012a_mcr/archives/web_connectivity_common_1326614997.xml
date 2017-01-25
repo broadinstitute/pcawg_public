@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>web_connectivity</componentBaseName>
+    <componentFileName>web_connectivity_common_1326614997.enc</componentFileName>
+    <componentName>web_connectivity_common</componentName>
+    <componentVersion>1326614997</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>441184</size>
+    <type></type>
+    <uncompressedBytes>489151</uncompressedBytes>
+  </component>
+</componentData>

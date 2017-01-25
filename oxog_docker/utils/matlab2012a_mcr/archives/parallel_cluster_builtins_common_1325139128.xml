@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>parallel_cluster_builtins</componentBaseName>
+    <componentFileName>parallel_cluster_builtins_common_1325139128.enc</componentFileName>
+    <componentName>parallel_cluster_builtins_common</componentName>
+    <componentVersion>1325139128</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>532</size>
+    <type></type>
+    <uncompressedBytes>896</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>mclmcr</componentBaseName>
+    <componentFileName>mclmcr_glnxa64_1327511596.enc</componentFileName>
+    <componentName>mclmcr_glnxa64</componentName>
+    <componentVersion>1327511596</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>821983</size>
+    <type></type>
+    <uncompressedBytes>2483592</uncompressedBytes>
+  </component>
+</componentData>

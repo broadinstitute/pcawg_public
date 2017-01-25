@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>cloud_console_client</componentBaseName>
+    <componentFileName>cloud_console_client_common_1325136804.enc</componentFileName>
+    <componentName>cloud_console_client_common</componentName>
+    <componentVersion>1325136804</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>6270</size>
+    <type></type>
+    <uncompressedBytes>8461</uncompressedBytes>
+  </component>
+</componentData>

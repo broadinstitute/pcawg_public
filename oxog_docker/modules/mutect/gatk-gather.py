@@ -1,0 +1,160 @@
+#!/util/bin/python
+
+import glob
+import os
+import subprocess
+import sys
+
+
+if len(sys.argv) < 2:
+    print ("Usage: gatc-gather.py <libdir> [output_files...]")
+    sys.exit(1)
+    
+libdir = sys.argv[1]
+outputFiles = set()
+for i in range(2, len(sys.argv)):
+    outputFiles.add(sys.argv[i])
+
+excludedFiles = set(["scatter.out", "scatter.err", "success"])
+scatterDirs = glob.glob("scatter.*[0-9]")
+scatterDirs.sort()
+
+def getJobFiles(scatterDir):
+    jobFiles = set(os.listdir(scatterDir))
+    jobFiles = jobFiles - getExcludedScatterDirEntries(scatterDir, jobFiles)
+    return jobFiles
+
+def getExcludedScatterDirEntries(scatterDir, jobFiles):
+    directories = set(excludedFiles)
+    for jobFile in jobFiles:
+        if not os.path.isfile(os.path.join(scatterDir, jobFile)):
+            directories.add(jobFile)
+        if jobFile.startswith('pipette'):
+            directories.add(jobFile)
+    return directories
+
+# returns a handle to the merge process and the options file to delete on completion and the jobFile
+def mergeSamFiles(jobFile):
+    picardOptionsFileName = jobFile + ".options"
+    picardOptionsFile = open(picardOptionsFileName, "w")
+    filesExist = False
+    for scatterDir in scatterDirs:
+        if os.path.exists(os.path.join(scatterDir, jobFile)):
+            picardOptionsFile.write( os.path.join(scatterDir, jobFile) + '\n')
+            filesExist = True
+    picardOptionsFile.close()
+    gatherer = None
+    if filesExist:
+        # use options file so we don't run into a commandline length limitation
+        gatherer = subprocess.Popen(["java",
+                               "-Xmx2g",
+                               "-jar", libdir + "/GatherBams.jar",
+                               picardOptionsFileName,
+                               jobFile])
+    return (gatherer, picardOptionsFileName, jobFile)
+
+def mergeTextFiles(jobFile, headerRowCount=0):
+    mergedFile = open(jobFile, "w")
+    if headerRowCount > 0:
+        (firstOutputFile, firstFileIndex) = getFirstOutputFile(jobFile)
+
+        for i in range(headerRowCount):
+            mergedFile.write( firstOutputFile.readline() + '\n')
+        firstOutputFile.close()
+        
+    for scatterDir in scatterDirs:
+        if not os.path.exists(os.path.join(scatterDir, jobFile)):
+            continue
+
+        rowNumber = 0
+        outputFile = open(os.path.join(scatterDir, jobFile))
+        for line in outputFile:
+            rowNumber += 1
+            if rowNumber <= headerRowCount:
+                continue
+            mergedFile.write( line + '\n')
+        outputFile.close()
+    mergedFile.close()
+
+def getFirstOutputFile(jobFile):
+    firstOutputFile = None
+    firstFileIndex = 0
+    for scatterDir in scatterDirs:
+        if os.path.exists(os.path.join(scatterDir, jobFile)):
+            firstOutputFile = open(os.path.join(scatterDir, jobFile))
+        else:
+            firstFileIndex += 1
+    if firstOutputFile is None:
+        firstFileIndex = -1
+    return (firstOutputFile, firstFileIndex)
+
+def getHeaderRowCount(jobFile):
+    (firstOutputFile, firstFileIndex) = getFirstOutputFile(jobFile)
+    if firstOutputFile is None:
+        return 0
+
+    try:
+        currentLineNumber = 1
+        for line in firstOutputFile:
+            for scatterDir in scatterDirs[firstFileIndex+1:]:
+                if not os.path.exists(os.path.join(scatterDir, jobFile)):
+                    continue
+                nextFile = open(os.path.join(scatterDir, jobFile))
+                try:
+                    nextFileLineNumber = 1
+                    for nextFileLine in nextFile:
+                        if currentLineNumber == nextFileLineNumber:
+                            if line == nextFileLine:
+                                break
+                            else:
+                                return currentLineNumber - 1
+                        else:
+                             nextFileLineNumber += 1
+                    if nextFileLineNumber < currentLineNumber:
+                        return currentLineNumber - 1
+                finally:
+                    nextFile.close()
+            currentLineNumber += 1
+    finally:
+        firstOutputFile.close()
+        
+    return currentLineNumber - 1
+
+def removeJobFiles(scatterDirs, jobFile):
+    return # tbd remove this line after debug
+    for scatterDir in scatterDirs:
+        if os.path.exists(os.path.join(scatterDir, jobFile)):
+            os.remove(os.path.join(scatterDir, jobFile))
+
+commonJobFiles = None
+for scatterDir in scatterDirs:
+    jobFiles = getJobFiles(scatterDir)
+    if (commonJobFiles is None):
+        commonJobFiles = jobFiles
+    else:
+        droppedFiles = commonJobFiles.symmetric_difference(jobFiles)
+        commonJobFiles = commonJobFiles.intersection(jobFiles)
+        if len(droppedFiles) > 0:
+            print ("dropped files from scatter dir:", scatterDir, " ".join(droppedFiles))
+outputFiles = outputFiles.union(commonJobFiles) 
+bamGatherers = []
+for jobFile in outputFiles:
+    if jobFile.endswith(".bai"):
+        # can't merge bam indexes and now gather bams should index on the fly
+        removeJobFiles(scatterDirs, jobFile)
+    elif jobFile.endswith(".bam") or jobFile.endswith(".sam"):
+        bamGatherers.append(mergeSamFiles(jobFile))
+    else:
+        mergeTextFiles(jobFile, getHeaderRowCount(jobFile))
+        removeJobFiles(scatterDirs, jobFile)
+
+for (bamGatherer, optionsFile, jobFile) in bamGatherers:
+    if bamGatherer is not None and bamGatherer.wait() != 0:
+        raise Exception("bam merger failed: " + jobFile)
+    os.remove(optionsFile)
+    removeJobFiles(scatterDirs, jobFile)
+
+for intervalFile in glob.glob("gatk-scatter.*.interval_list"):
+    os.remove(intervalFile)
+        
+subprocess.check_call('gzip *.wig.txt', shell=True)

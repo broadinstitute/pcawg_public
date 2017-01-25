@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>rs232_serial</componentBaseName>
+    <componentFileName>rs232_serial_common_1325139127.enc</componentFileName>
+    <componentName>rs232_serial_common</componentName>
+    <componentVersion>1325139127</componentVersion>
+    <locale></locale>
+    <numFiles>49</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>68445</size>
+    <type></type>
+    <uncompressedBytes>192080</uncompressedBytes>
+  </component>
+</componentData>

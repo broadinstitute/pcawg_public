@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>econ_resources</componentBaseName>
+    <componentFileName>econ_resources_common_1320773674.enc</componentFileName>
+    <componentName>econ_resources_common</componentName>
+    <componentVersion>1320773674</componentVersion>
+    <locale></locale>
+    <numFiles>159</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>75663</size>
+    <type></type>
+    <uncompressedBytes>140340</uncompressedBytes>
+  </component>
+</componentData>

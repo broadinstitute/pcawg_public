@@ -1,0 +1,5 @@
+<scatter-gather lsf-project="Firehose">
+    <prepare exe="java -Xmx2g -jar ${libdir}GatkScatterGatherPrepare.jar" memory="2"/> 
+    <scatter exe="java -Xmx2g -jar ${libdir}muTect-1.1.6.jar" memory="2"/>
+    <gather exe="python ${libdir}gatk-gather.py" memory="2"/>
+</scatter-gather>

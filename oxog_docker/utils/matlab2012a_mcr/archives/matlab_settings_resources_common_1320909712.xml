@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_settings_resources</componentBaseName>
+    <componentFileName>matlab_settings_resources_common_1320909712.enc</componentFileName>
+    <componentName>matlab_settings_resources_common</componentName>
+    <componentVersion>1320909712</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>4747</size>
+    <type></type>
+    <uncompressedBytes>14768</uncompressedBytes>
+  </component>
+</componentData>

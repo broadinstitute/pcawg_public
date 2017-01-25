@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rsync -avh --exclude ".*" gsaksena@69.173.70.43:/cga/fh/pcawg_pipeline/modules/ /opt2/pcawg_pipeline/modules
+
+rsync -avh --exclude ".*" gsaksena@69.173.70.43:/cga/fh/pcawg_pipeline/pipelines/ /opt2/pcawg_pipeline/pipelines
+
+rsync -avh --exclude ".*" gsaksena@69.173.70.43:/cga/fh/pcawg_pipeline/utils/ /opt2/pcawg_pipeline/utils

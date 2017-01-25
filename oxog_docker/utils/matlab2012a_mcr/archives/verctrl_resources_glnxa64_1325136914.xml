@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>verctrl_resources</componentBaseName>
+    <componentFileName>verctrl_resources_glnxa64_1325136914.enc</componentFileName>
+    <componentName>verctrl_resources_glnxa64</componentName>
+    <componentVersion>1325136914</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>9420</size>
+    <type></type>
+    <uncompressedBytes>29192</uncompressedBytes>
+  </component>
+</componentData>

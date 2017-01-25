@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>datafeed_resources</componentBaseName>
+    <componentFileName>datafeed_resources_common_1319671534.enc</componentFileName>
+    <componentName>datafeed_resources_common</componentName>
+    <componentVersion>1319671534</componentVersion>
+    <locale></locale>
+    <numFiles>35</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>15768</size>
+    <type></type>
+    <uncompressedBytes>22195</uncompressedBytes>
+  </component>
+</componentData>

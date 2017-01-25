@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_java_widgets</componentBaseName>
+    <componentFileName>matlab_java_widgets_glnxa64_1327504886.enc</componentFileName>
+    <componentName>matlab_java_widgets_glnxa64</componentName>
+    <componentVersion>1327504886</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>9293</size>
+    <type></type>
+    <uncompressedBytes>25240</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/blacs</componentBaseName>
+    <componentFileName>3p/blacs_glnxa64_1325136815.enc</componentFileName>
+    <componentName>3p/blacs_glnxa64</componentName>
+    <componentVersion>1325136815</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>59198</size>
+    <type></type>
+    <uncompressedBytes>204556</uncompressedBytes>
+  </component>
+</componentData>

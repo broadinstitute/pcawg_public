@@ -1,0 +1,47 @@
+[task]
+
+####
+# Command line to be invoked to run this job
+#
+# To reference any files that are part of this module, prefix with <libdir>.
+####
+name: tabix
+
+author: Gordon Saksena
+
+command: python <libdir>create_tabix_files.py --libdir <libdir> ${"--input_file " input_file} ${t "--output_base_name " output_base_name} ${t "--output_extension " output_extension}
+
+####
+# Task description
+####
+description: Creates Tabix .gz and .gz.tbi files from input file. Built from samtools/htslib 0.2.0-rc11.
+
+####
+# Colon separated list of directories to be included in this project
+####
+projectDirs: .
+
+####
+# buildDir is the directory (relative to hydrant.deploy) where the build command will be run
+####
+#buildDir: .
+#build:
+
+####
+# directory (relative to buildDir) where executables will be stored.  Defaults to current working directory
+####
+#execDir: .
+
+[runtime]
+executor: LSF
+max_memory: 1
+
+[input_file]
+description: eg a .vcf file
+
+[output_base_name]
+description: unique sample name, eg ffab49f1-9fa6-4879-abab-6c51ca1ce948
+
+[output_extension]
+description: eg .snv_mnv.vcf or .sv.vcf
+

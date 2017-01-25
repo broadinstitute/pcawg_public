@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpointcore_resources</componentBaseName>
+    <componentFileName>fixedpointcore_resources_common_1307669881.enc</componentFileName>
+    <componentName>fixedpointcore_resources_common</componentName>
+    <componentVersion>1307669881</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>1336</size>
+    <type></type>
+    <uncompressedBytes>1318</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_java_widgets</componentBaseName>
+    <componentFileName>matlab_java_widgets_common_1327070927.enc</componentFileName>
+    <componentName>matlab_java_widgets_common</componentName>
+    <componentVersion>1327070927</componentVersion>
+    <locale></locale>
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>5882628</size>
+    <type></type>
+    <uncompressedBytes>6814984</uncompressedBytes>
+  </component>
+</componentData>

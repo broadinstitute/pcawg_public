@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>nativejava_services</componentBaseName>
+    <componentFileName>nativejava_services_glnxa64_1325140088.enc</componentFileName>
+    <componentName>nativejava_services_glnxa64</componentName>
+    <componentVersion>1325140088</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>2700</size>
+    <type></type>
+    <uncompressedBytes>6712</uncompressedBytes>
+  </component>
+</componentData>

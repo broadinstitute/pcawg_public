@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/mkl</componentBaseName>
+    <componentFileName>3p/mkl_glnxa64_1325136818.enc</componentFileName>
+    <componentName>3p/mkl_glnxa64</componentName>
+    <componentVersion>1325136818</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>12499968</size>
+    <type></type>
+    <uncompressedBytes>33533046</uncompressedBytes>
+  </component>
+</componentData>

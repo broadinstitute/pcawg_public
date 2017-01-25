@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>fixedpoint_core</componentBaseName>
+    <componentFileName>fixedpoint_core_common_1325139117.enc</componentFileName>
+    <componentName>fixedpoint_core_common</componentName>
+    <componentVersion>1325139117</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>609</size>
+    <type></type>
+    <uncompressedBytes>1905</uncompressedBytes>
+  </component>
+</componentData>

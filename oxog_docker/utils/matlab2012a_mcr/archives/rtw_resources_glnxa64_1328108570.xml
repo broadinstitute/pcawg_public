@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>rtw_resources</componentBaseName>
+    <componentFileName>rtw_resources_glnxa64_1328108570.enc</componentFileName>
+    <componentName>rtw_resources_glnxa64</componentName>
+    <componentVersion>1328108570</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>122870</size>
+    <type></type>
+    <uncompressedBytes>576280</uncompressedBytes>
+  </component>
+</componentData>

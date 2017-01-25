@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>parallel_cluster_builtins</componentBaseName>
+    <componentFileName>parallel_cluster_builtins_glnxa64_1327505687.enc</componentFileName>
+    <componentName>parallel_cluster_builtins_glnxa64</componentName>
+    <componentVersion>1327505687</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>23092</size>
+    <type></type>
+    <uncompressedBytes>78160</uncompressedBytes>
+  </component>
+</componentData>

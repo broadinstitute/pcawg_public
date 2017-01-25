@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/colamd</componentBaseName>
+    <componentFileName>3p/colamd_glnxa64_1325136804.enc</componentFileName>
+    <componentName>3p/colamd_glnxa64</componentName>
+    <componentVersion>1325136804</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>13917</size>
+    <type></type>
+    <uncompressedBytes>26989</uncompressedBytes>
+  </component>
+</componentData>

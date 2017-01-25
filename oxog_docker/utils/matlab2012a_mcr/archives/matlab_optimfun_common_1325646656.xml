@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>matlab_optimfun</componentBaseName>
+    <componentFileName>matlab_optimfun_common_1325646656.enc</componentFileName>
+    <componentName>matlab_optimfun_common</componentName>
+    <componentVersion>1325646656</componentVersion>
+    <locale></locale>
+    <numFiles>23</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>48944</size>
+    <type></type>
+    <uncompressedBytes>147031</uncompressedBytes>
+  </component>
+</componentData>

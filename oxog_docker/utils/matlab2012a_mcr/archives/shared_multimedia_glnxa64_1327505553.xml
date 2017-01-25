@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_multimedia</componentBaseName>
+    <componentFileName>shared_multimedia_glnxa64_1327505553.enc</componentFileName>
+    <componentName>shared_multimedia_glnxa64</componentName>
+    <componentVersion>1327505553</componentVersion>
+    <locale></locale>
+    <numFiles>7</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>256487</size>
+    <type></type>
+    <uncompressedBytes>698288</uncompressedBytes>
+  </component>
+</componentData>

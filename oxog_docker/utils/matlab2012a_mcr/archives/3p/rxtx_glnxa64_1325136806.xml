@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/rxtx</componentBaseName>
+    <componentFileName>3p/rxtx_glnxa64_1325136806.enc</componentFileName>
+    <componentName>3p/rxtx_glnxa64</componentName>
+    <componentVersion>1325136806</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>65254</size>
+    <type></type>
+    <uncompressedBytes>174426</uncompressedBytes>
+  </component>
+</componentData>

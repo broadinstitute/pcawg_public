@@ -1,0 +1,2 @@
+
+while true; do clear ; date; cat $HOME/pipette_queue/report/pipeline_summary.status.txt; sleep 10 ; done

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>ctfrt</componentBaseName>
+    <componentFileName>ctfrt_glnxa64_1325144284.enc</componentFileName>
+    <componentName>ctfrt_glnxa64</componentName>
+    <componentVersion>1325144284</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>276595</size>
+    <type></type>
+    <uncompressedBytes>896560</uncompressedBytes>
+  </component>
+</componentData>

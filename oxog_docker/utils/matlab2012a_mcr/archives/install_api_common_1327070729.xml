@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>install_api</componentBaseName>
+    <componentFileName>install_api_common_1327070729.enc</componentFileName>
+    <componentName>install_api_common</componentName>
+    <componentVersion>1327070729</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>204991</size>
+    <type></type>
+    <uncompressedBytes>239568</uncompressedBytes>
+  </component>
+</componentData>

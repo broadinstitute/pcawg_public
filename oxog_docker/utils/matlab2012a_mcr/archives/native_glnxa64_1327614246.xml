@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>native</componentBaseName>
+    <componentFileName>native_glnxa64_1327614246.enc</componentFileName>
+    <componentName>native_glnxa64</componentName>
+    <componentVersion>1327614246</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>580609</size>
+    <type></type>
+    <uncompressedBytes>2242840</uncompressedBytes>
+  </component>
+</componentData>

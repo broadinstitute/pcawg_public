@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>splines_resources</componentBaseName>
+    <componentFileName>splines_resources_common_1326614264.enc</componentFileName>
+    <componentName>splines_resources_common</componentName>
+    <componentVersion>1326614264</componentVersion>
+    <locale></locale>
+    <numFiles>56</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>34825</size>
+    <type></type>
+    <uncompressedBytes>74646</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/qhull</componentBaseName>
+    <componentFileName>3p/qhull_glnxa64_1325136804.enc</componentFileName>
+    <componentName>3p/qhull_glnxa64</componentName>
+    <componentVersion>1325136804</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>149236</size>
+    <type></type>
+    <uncompressedBytes>336659</uncompressedBytes>
+  </component>
+</componentData>

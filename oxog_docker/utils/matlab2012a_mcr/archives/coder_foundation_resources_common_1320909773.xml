@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>coder_foundation_resources</componentBaseName>
+    <componentFileName>coder_foundation_resources_common_1320909773.enc</componentFileName>
+    <componentName>coder_foundation_resources_common</componentName>
+    <componentVersion>1320909773</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>4705</size>
+    <type></type>
+    <uncompressedBytes>17605</uncompressedBytes>
+  </component>
+</componentData>

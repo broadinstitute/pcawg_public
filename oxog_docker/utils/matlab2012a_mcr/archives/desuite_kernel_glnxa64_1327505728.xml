@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>desuite_kernel</componentBaseName>
+    <componentFileName>desuite_kernel_glnxa64_1327505728.enc</componentFileName>
+    <componentName>desuite_kernel_glnxa64</componentName>
+    <componentVersion>1327505728</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>213386</size>
+    <type></type>
+    <uncompressedBytes>737880</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/log4j</componentBaseName>
+    <componentFileName>3p/log4j_common_1325136804.enc</componentFileName>
+    <componentName>3p/log4j_common</componentName>
+    <componentVersion>1325136804</componentVersion>
+    <locale></locale>
+    <numFiles>3</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>361284</size>
+    <type></type>
+    <uncompressedBytes>403272</uncompressedBytes>
+  </component>
+</componentData>

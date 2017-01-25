@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>mw_java_foundation</componentBaseName>
+    <componentFileName>mw_java_foundation_common_1325647073.enc</componentFileName>
+    <componentName>mw_java_foundation_common</componentName>
+    <componentVersion>1325647073</componentVersion>
+    <locale></locale>
+    <numFiles>13</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>4608753</size>
+    <type></type>
+    <uncompressedBytes>5430506</uncompressedBytes>
+  </component>
+</componentData>

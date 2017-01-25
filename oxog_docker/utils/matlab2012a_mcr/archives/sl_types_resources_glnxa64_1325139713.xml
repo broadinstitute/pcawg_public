@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>sl_types_resources</componentBaseName>
+    <componentFileName>sl_types_resources_glnxa64_1325139713.enc</componentFileName>
+    <componentName>sl_types_resources_glnxa64</componentName>
+    <componentVersion>1325139713</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>13268</size>
+    <type></type>
+    <uncompressedBytes>46328</uncompressedBytes>
+  </component>
+</componentData>

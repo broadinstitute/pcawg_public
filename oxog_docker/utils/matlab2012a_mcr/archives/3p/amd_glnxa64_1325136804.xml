@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/amd</componentBaseName>
+    <componentFileName>3p/amd_glnxa64_1325136804.enc</componentFileName>
+    <componentName>3p/amd_glnxa64</componentName>
+    <componentVersion>1325136804</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>17583</size>
+    <type></type>
+    <uncompressedBytes>36569</uncompressedBytes>
+  </component>
+</componentData>

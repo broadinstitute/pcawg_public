@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>mw_java_foundation</componentBaseName>
+    <componentFileName>mw_java_foundation_glnxa64_1325140094.enc</componentFileName>
+    <componentName>mw_java_foundation_glnxa64</componentName>
+    <componentVersion>1325140094</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>9300</size>
+    <type></type>
+    <uncompressedBytes>24112</uncompressedBytes>
+  </component>
+</componentData>

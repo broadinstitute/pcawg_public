@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/unzip</componentBaseName>
+    <componentFileName>3p/unzip_glnxa64_1325136805.enc</componentFileName>
+    <componentName>3p/unzip_glnxa64</componentName>
+    <componentVersion>1325136805</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>78032</size>
+    <type></type>
+    <uncompressedBytes>159550</uncompressedBytes>
+  </component>
+</componentData>

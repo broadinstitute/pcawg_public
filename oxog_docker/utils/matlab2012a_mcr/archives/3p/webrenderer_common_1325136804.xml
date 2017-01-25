@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/webrenderer</componentBaseName>
+    <componentFileName>3p/webrenderer_common_1325136804.enc</componentFileName>
+    <componentName>3p/webrenderer_common</componentName>
+    <componentVersion>1325136804</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>360815</size>
+    <type></type>
+    <uncompressedBytes>428021</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>shared_optimlib_resources</componentBaseName>
+    <componentFileName>shared_optimlib_resources_common_1312116350.enc</componentFileName>
+    <componentName>shared_optimlib_resources_common</componentName>
+    <componentVersion>1312116350</componentVersion>
+    <locale></locale>
+    <numFiles>27</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>14014</size>
+    <type></type>
+    <uncompressedBytes>25150</uncompressedBytes>
+  </component>
+</componentData>

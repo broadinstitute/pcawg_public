@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/tiff</componentBaseName>
+    <componentFileName>3p/tiff_glnxa64_1325136809.enc</componentFileName>
+    <componentName>3p/tiff_glnxa64</componentName>
+    <componentVersion>1325136809</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>228302</size>
+    <type></type>
+    <uncompressedBytes>606119</uncompressedBytes>
+  </component>
+</componentData>

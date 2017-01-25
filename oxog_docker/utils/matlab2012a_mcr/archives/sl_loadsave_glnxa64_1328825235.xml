@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>sl_loadsave</componentBaseName>
+    <componentFileName>sl_loadsave_glnxa64_1328825235.enc</componentFileName>
+    <componentName>sl_loadsave_glnxa64</componentName>
+    <componentVersion>1328825235</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>302247</size>
+    <type></type>
+    <uncompressedBytes>847776</uncompressedBytes>
+  </component>
+</componentData>

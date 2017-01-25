@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>install_api</componentBaseName>
+    <componentFileName>install_api_glnxa64_1325139771.enc</componentFileName>
+    <componentName>install_api_glnxa64</componentName>
+    <componentVersion>1325139771</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>11204</size>
+    <type></type>
+    <uncompressedBytes>24248</uncompressedBytes>
+  </component>
+</componentData>

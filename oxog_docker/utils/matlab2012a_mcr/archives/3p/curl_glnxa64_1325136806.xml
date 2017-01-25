@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>3p/curl</componentBaseName>
+    <componentFileName>3p/curl_glnxa64_1325136806.enc</componentFileName>
+    <componentName>3p/curl_glnxa64</componentName>
+    <componentVersion>1325136806</componentVersion>
+    <locale></locale>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>149914</size>
+    <type></type>
+    <uncompressedBytes>320468</uncompressedBytes>
+  </component>
+</componentData>

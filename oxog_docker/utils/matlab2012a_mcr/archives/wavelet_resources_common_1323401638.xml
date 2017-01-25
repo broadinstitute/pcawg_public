@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>wavelet_resources</componentBaseName>
+    <componentFileName>wavelet_resources_common_1323401638.enc</componentFileName>
+    <componentName>wavelet_resources_common</componentName>
+    <componentVersion>1323401638</componentVersion>
+    <locale></locale>
+    <numFiles>17</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>14644</size>
+    <type></type>
+    <uncompressedBytes>50835</uncompressedBytes>
+  </component>
+</componentData>

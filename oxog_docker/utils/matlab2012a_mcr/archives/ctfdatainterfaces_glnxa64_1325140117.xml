@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>ctfdatainterfaces</componentBaseName>
+    <componentFileName>ctfdatainterfaces_glnxa64_1325140117.enc</componentFileName>
+    <componentName>ctfdatainterfaces_glnxa64</componentName>
+    <componentVersion>1325140117</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>41434</size>
+    <type></type>
+    <uncompressedBytes>126096</uncompressedBytes>
+  </component>
+</componentData>

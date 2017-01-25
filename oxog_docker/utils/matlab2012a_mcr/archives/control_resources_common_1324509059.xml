@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>control_resources</componentBaseName>
+    <componentFileName>control_resources_common_1324509059.enc</componentFileName>
+    <componentName>control_resources_common</componentName>
+    <componentVersion>1324509059</componentVersion>
+    <locale></locale>
+    <numFiles>16</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>49796</size>
+    <type></type>
+    <uncompressedBytes>204688</uncompressedBytes>
+  </component>
+</componentData>

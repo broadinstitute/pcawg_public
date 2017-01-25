@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>jproxy</componentBaseName>
+    <componentFileName>jproxy_glnxa64_1325143414.enc</componentFileName>
+    <componentName>jproxy_glnxa64</componentName>
+    <componentVersion>1325143414</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>18732</size>
+    <type></type>
+    <uncompressedBytes>63344</uncompressedBytes>
+  </component>
+</componentData>

@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>pde_resources</componentBaseName>
+    <componentFileName>pde_resources_common_1314649623.enc</componentFileName>
+    <componentName>pde_resources_common</componentName>
+    <componentVersion>1314649623</componentVersion>
+    <locale></locale>
+    <numFiles>71</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>23547</size>
+    <type></type>
+    <uncompressedBytes>28840</uncompressedBytes>
+  </component>
+</componentData>

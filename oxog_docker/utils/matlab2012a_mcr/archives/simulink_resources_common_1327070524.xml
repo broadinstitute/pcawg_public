@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_resources</componentBaseName>
+    <componentFileName>simulink_resources_common_1327070524.enc</componentFileName>
+    <componentName>simulink_resources_common</componentName>
+    <componentVersion>1327070524</componentVersion>
+    <locale></locale>
+    <numFiles>74</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>480048</size>
+    <type></type>
+    <uncompressedBytes>2197480</uncompressedBytes>
+  </component>
+</componentData>

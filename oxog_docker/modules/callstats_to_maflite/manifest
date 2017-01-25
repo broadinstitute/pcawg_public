@@ -1,0 +1,101 @@
+# Written by Hydrant
+# 2014-10-28 16:26:23
+
+name=CallstatsToMaflite
+description=convert call_stats file to maf ('maflite') file
+author=kcibul
+commandLine=perl <libdir>call_stats_to_maflite.pl <input.call_stats.file> <genome.build> <mode> <f_threshold> <triallelic_mode_KEEP_or_REJECT> <output.prefix>.maf <extra.columns>
+fileFormat=
+
+p1_name=input.call_stats.file
+p1_description=name of input (call_stats) file
+p1_default_value=
+p1_fileFormat=
+p1_optional=
+p1_prefix_when_specified=
+p1_MODE=IN
+p1_TYPE=FILE
+p1_type=java.io.File
+p1_value=
+
+p2_name=genome.build
+p2_description=genome build to use in the output maf
+p2_default_value=
+p2_fileFormat=
+p2_optional=
+p2_prefix_when_specified=
+p2_MODE=
+p2_TYPE=
+p2_type=java.lang.String
+p2_value=
+
+p3_name=mode
+p3_description=mode of filtering for results
+p3_default_value=
+p3_fileFormat=
+p3_optional=
+p3_prefix_when_specified=
+p3_MODE=
+p3_TYPE=
+p3_type=java.lang.String
+p3_value=
+
+p4_name=f_threshold
+p4_description=minimum allele fraction event to retain
+p4_default_value=0
+p4_fileFormat=
+p4_optional=on
+p4_prefix_when_specified=
+p4_MODE=
+p4_TYPE=
+p4_type=java.lang.String
+p4_value=
+
+p5_name=triallelic_mode_KEEP_or_REJECT
+p5_description=the value KEEP to retain triallelic flagged sites, or REJECT to continue rejecting them
+p5_default_value=KEEP
+p5_fileFormat=
+p5_optional=on
+p5_prefix_when_specified=
+p5_MODE=
+p5_TYPE=
+p5_type=java.lang.String
+p5_value=
+
+p6_name=output.prefix
+p6_description=prefix for naming output maf file
+p6_default_value=
+p6_fileFormat=
+p6_optional=
+p6_prefix_when_specified=
+p6_MODE=
+p6_TYPE=
+p6_type=java.lang.String
+p6_value=
+
+p7_name=extra.columns
+p7_description=additional columns from the call_stats to pass along to the maflite
+p7_default_value=
+p7_fileFormat=
+p7_optional=on
+p7_prefix_when_specified=
+p7_MODE=
+p7_TYPE=
+p7_type=java.lang.String
+p7_value=
+
+cpuType=any
+JVMLevel=1.6
+os=any
+pipelineModel=
+privacy=
+publicationDate=10/28/2014 16:26
+quality=
+requiredPatchLSIDs=
+requiredPatchURLs=
+serializedModel=
+taskType=
+userid=
+LSID=urn:lsid:broadinstitute.org:cancer.genome.analysis:00162:17
+executor=LSF
+default.memory.gigabytes=1

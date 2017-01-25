@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>simulink_solver</componentBaseName>
+    <componentFileName>simulink_solver_glnxa64_1327505603.enc</componentFileName>
+    <componentName>simulink_solver_glnxa64</componentName>
+    <componentVersion>1327505603</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>248990</size>
+    <type></type>
+    <uncompressedBytes>652496</uncompressedBytes>
+  </component>
+</componentData>

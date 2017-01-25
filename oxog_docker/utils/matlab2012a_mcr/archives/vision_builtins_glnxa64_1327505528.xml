@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>vision_builtins</componentBaseName>
+    <componentFileName>vision_builtins_glnxa64_1327505528.enc</componentFileName>
+    <componentName>vision_builtins_glnxa64</componentName>
+    <componentVersion>1327505528</componentVersion>
+    <locale></locale>
+    <numFiles>1</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>50885</size>
+    <type></type>
+    <uncompressedBytes>188312</uncompressedBytes>
+  </component>
+</componentData>

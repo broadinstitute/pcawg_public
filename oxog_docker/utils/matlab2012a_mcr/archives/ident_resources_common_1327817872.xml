@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>ident_resources</componentBaseName>
+    <componentFileName>ident_resources_common_1327817872.enc</componentFileName>
+    <componentName>ident_resources_common</componentName>
+    <componentVersion>1327817872</componentVersion>
+    <locale></locale>
+    <numFiles>15</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>76827</size>
+    <type></type>
+    <uncompressedBytes>323431</uncompressedBytes>
+  </component>
+</componentData>

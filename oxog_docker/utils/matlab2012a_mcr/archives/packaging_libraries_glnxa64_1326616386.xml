@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>packaging_libraries</componentBaseName>
+    <componentFileName>packaging_libraries_glnxa64_1326616386.enc</componentFileName>
+    <componentName>packaging_libraries_glnxa64</componentName>
+    <componentVersion>1326616386</componentVersion>
+    <locale></locale>
+    <numFiles>4</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>406041</size>
+    <type></type>
+    <uncompressedBytes>1219528</uncompressedBytes>
+  </component>
+</componentData>

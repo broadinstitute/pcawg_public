@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>rfblks_resources</componentBaseName>
+    <componentFileName>rfblks_resources_common_1320773875.enc</componentFileName>
+    <componentName>rfblks_resources_common</componentName>
+    <componentVersion>1320773875</componentVersion>
+    <locale></locale>
+    <numFiles>24</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>10245</size>
+    <type></type>
+    <uncompressedBytes>13455</uncompressedBytes>
+  </component>
+</componentData>

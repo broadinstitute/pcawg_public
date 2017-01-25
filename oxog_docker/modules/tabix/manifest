@@ -1,0 +1,57 @@
+# Written by Hydrant
+# 2014-07-31 19:52:32
+
+name=tabix
+description=Creates Tabix .gz and .gz.tbi files from input file. Built from samtools/htslib 0.2.0-rc11.
+author=Gordon Saksena
+commandLine=python <libdir>create_tabix_files.py --libdir <libdir> <input_file> <output_base_name> <output_extension>
+fileFormat=
+
+p1_name=input_file
+p1_description=eg a .vcf file
+p1_default_value=
+p1_fileFormat=
+p1_optional=
+p1_prefix_when_specified=--input_file 
+p1_MODE=IN
+p1_TYPE=FILE
+p1_type=java.io.File
+p1_value=
+
+p2_name=output_base_name
+p2_description=unique sample name, eg ffab49f1-9fa6-4879-abab-6c51ca1ce948
+p2_default_value=
+p2_fileFormat=
+p2_optional=
+p2_prefix_when_specified=--output_base_name 
+p2_MODE=
+p2_TYPE=
+p2_type=java.lang.String
+p2_value=
+
+p3_name=output_extension
+p3_description=eg .snv_mnv.vcf or .sv.vcf
+p3_default_value=
+p3_fileFormat=
+p3_optional=
+p3_prefix_when_specified=--output_extension 
+p3_MODE=
+p3_TYPE=
+p3_type=java.lang.String
+p3_value=
+
+cpuType=any
+JVMLevel=1.6
+os=any
+pipelineModel=
+privacy=
+publicationDate=07/31/2014 19:52
+quality=
+requiredPatchLSIDs=
+requiredPatchURLs=
+serializedModel=
+taskType=
+userid=
+LSID=urn:lsid:broadinstitute.org:cancer.genome.analysis:10809:3
+executor=LSF
+default.memory.gigabytes=1

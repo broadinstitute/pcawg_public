@@ -1,0 +1,2 @@
+MuTect Revision: 1.1.6
+GATK Revision: 2.7-1-g42d771f

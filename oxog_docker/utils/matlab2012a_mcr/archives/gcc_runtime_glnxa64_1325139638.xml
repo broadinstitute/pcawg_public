@@ -1,0 +1,18 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>gcc_runtime</componentBaseName>
+    <componentFileName>gcc_runtime_glnxa64_1325139638.enc</componentFileName>
+    <componentName>gcc_runtime_glnxa64</componentName>
+    <componentVersion>1325139638</componentVersion>
+    <locale></locale>
+    <numFiles>6</numFiles>
+    <platformList>
+      <platform>glnxa64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>2451298</size>
+    <type></type>
+    <uncompressedBytes>10017747</uncompressedBytes>
+  </component>
+</componentData>

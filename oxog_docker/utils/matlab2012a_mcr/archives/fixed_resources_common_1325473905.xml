@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<componentData>
+  <component>
+    <componentBaseName>fixed_resources</componentBaseName>
+    <componentFileName>fixed_resources_common_1325473905.enc</componentFileName>
+    <componentName>fixed_resources_common</componentName>
+    <componentVersion>1325473905</componentVersion>
+    <locale></locale>
+    <numFiles>15</numFiles>
+    <platformList>
+      <platform>glnx86</platform>
+      <platform>glnxa64</platform>
+      <platform>maci64</platform>
+      <platform>win32</platform>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2012a</releaseFamily>
+    <size>16333</size>
+    <type></type>
+    <uncompressedBytes>43432</uncompressedBytes>
+  </component>
+</componentData>
