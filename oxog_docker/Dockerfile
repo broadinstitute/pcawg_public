@@ -87,8 +87,8 @@ RUN mkdir -p /opt/pyvcf_install && cd /opt/pyvcf_install && wget --no-check-cert
 
 RUN mkdir -p /opt/oncotator_install && cd /opt/oncotator_install &&  git clone https://github.com/broadinstitute/oncotator.git && cd oncotator && git checkout master
 
-#force latest pysam version, in spite of Oncotator's requirements for 7.5
-RUN mv /opt/oncotator_install/oncotator/setup.py /opt/oncotator_install/oncotator/setup_old.py &&  sed  's/ == 0.7.5//' /opt/oncotator_install/oncotator/setup_old.py > /opt/oncotator_install/oncotator/setup.py
+#force latest numpy version, in spite of Oncotator's requirements for 1.11.0
+RUN mv /opt/oncotator_install/oncotator/setup.py /opt/oncotator_install/oncotator/setup_old.py &&  sed  's/==1.11.0//' /opt/oncotator_install/oncotator/setup_old.py > /opt/oncotator_install/oncotator/setup.py
 
 RUN cd /opt/oncotator_install/oncotator && python setup.py install
 
