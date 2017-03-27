@@ -9,7 +9,7 @@ task pcawg_oxog {
         File bam_tumor
         File bam_tumor_index
         File refdata1
-        Float oxoq
+        String oxoq
         File input_vcf
 
         String output_disk_gb

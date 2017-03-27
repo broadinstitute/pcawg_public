@@ -6,6 +6,6 @@
   "pcawg_oxog_workflow.pcawg_oxog.bam_tumor_index": "gs://broad-gsaksena-pcawg-test/hcc1143_train1_chr22.bam.bai",
   "pcawg_oxog_workflow.pcawg_oxog.bam_tumor": "gs://broad-gsaksena-pcawg-test/hcc1143_train1_chr22.bam",
   "pcawg_oxog_workflow.pcawg_oxog.cpu_cores": "2",
-  "pcawg_oxog_workflow.pcawg_oxog.oxoq": 20,
+  "pcawg_oxog_workflow.pcawg_oxog.oxoq": "20",
   "pcawg_oxog_workflow.pcawg_oxog.input_vcf": "gs://broad-gsaksena-pcawg-test/hcc1143_train1_chr22.mutect.vcf"
 }
