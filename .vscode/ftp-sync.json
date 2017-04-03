@@ -1,0 +1,19 @@
+{
+    "remotePath": "/opt/pcawg_public/",
+    "host": "104.196.194.84",
+    "username": "g",
+    "password": "password",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": true,
+    "privateKeyPath": "/home/g/.ssh/google_compute_engine",
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}

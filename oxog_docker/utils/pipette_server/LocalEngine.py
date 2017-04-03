@@ -36,7 +36,8 @@ class LocalEngine:
             value = int(os.environ['GALAXY_SLOTS'])
         else:
             value = int(1.0 * self._numcores) #100 percent of cores are used.
-            value = value - 2 #allow some cores for system processes
+            if value > 6:
+                value = value - 2 #allow some cores for system processes
         return value
         
 
