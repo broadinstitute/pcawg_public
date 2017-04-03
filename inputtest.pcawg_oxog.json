@@ -2,7 +2,7 @@
   "pcawg_oxog_workflow.pcawg_oxog.output_disk_gb": "50",
   "pcawg_oxog_workflow.pcawg_oxog.ram_gb": "7",
   "pcawg_oxog_workflow.pcawg_oxog.pairID": "sample",
-  "pcawg_oxog_workflow.pcawg_oxog.refdata1": "https://personal.broadinstitute.org/gsaksena/public_full8.tar",
+  "pcawg_oxog_workflow.pcawg_oxog.refdata1": "https://personal.broadinstitute.org/gsaksena/public_full8.tar.tar",
   "pcawg_oxog_workflow.pcawg_oxog.bam_tumor_index": "gs://broad-gsaksena-pcawg-test/hcc1143_train1_chr22.bam.bai",
   "pcawg_oxog_workflow.pcawg_oxog.bam_tumor": "gs://broad-gsaksena-pcawg-test/hcc1143_train1_chr22.bam",
   "pcawg_oxog_workflow.pcawg_oxog.cpu_cores": "2",
