@@ -5,7 +5,7 @@ workflow pcawg_oxog_workflow {
 task pcawg_oxog {
 
         #Define workflow parameters within the task
-        String pairID
+        String pairID = "sample"
         File bam_tumor
         File bam_tumor_index
         File refdata1
@@ -29,7 +29,7 @@ def run(cmd):
 
 run('ln -sTf `pwd` /opt/execution')
 run('ln -sTf `pwd`/../inputs /opt/inputs')
-# run('/cga/fh/pcawg_pipeline/utils/monitor_start.py')
+run('/cga/fh/pcawg_pipeline/utils/monitor_start.py')
 
 # start task-specific calls
 ##########################
@@ -136,9 +136,45 @@ fid.writelines(mus)
 fid.close()
 
 
+
+def make_links(subpaths, new_names=None):
+    for i,subpath in enumerate(subpaths):
+        if not os.path.exists(subpath):
+            sys.stderr.write ('file not found: %s'%subpath)
+            continue
+        if new_names:
+            fn = new_names[i]
+        else:
+            fn = os.path.basename(subpath)
+        realsubpath = os.path.realpath(subpath)
+        new_path = os.path.join(OUTFILES,fn)
+        if os.path.exists(new_path):
+            sys.stderr.write('file already exists: %s'%new_path)
+            continue
+        os.link(realsubpath,new_path) #hard link, to survive export
+
+
+subpaths = [
+    'pipette_jobs/links_for_gnos/oxoG/sample.oxoG.tar.gz',
+    'pipette_jobs/links_for_gnos/annotate_failed_sites_to_vcfs/input.oxoG.vcf.gz',
+    'pipette_jobs/links_for_gnos/annotate_failed_sites_to_vcfs/input.oxoG.vcf.gz.tbi',
+    'pipette_jobs/oxoG/sample.oxoG3.maf.annotated.all.maf.annotated'
+]
+new_names = [
+    'sample.oxoG.supplementary.tar.gz',
+    'sample.oxoG.vcf.gz',
+    'sample.oxoG.vcf.gz.tbi',
+    'sample.oxoG.maf'
+]
+make_links(subpaths,new_names)
+
+
+
+
+
 #########################
 # end task-specific calls
-# run('/cga/fh/pcawg_pipeline/utils/monitor_stop.py')
+run('/cga/fh/pcawg_pipeline/utils/monitor_stop.py')
 
 "
         echo "$python_cmd"
@@ -148,14 +184,15 @@ fid.close()
     }
 
         parameter_meta{
-
-                pairID: "The ID of the pair of bam files that are analyzed"
                 bam_tumor: "The tumor genome sample analyzed in the pipeline"
-                bam_normal: "The normal genome sample analyzed in the pipeline"
                 bam_tumor_index: "The bam file index for the tumor sample bam file"
-                bam_normal_index: "The bam file index for the normal sample bam file"
                 refdata1: "tar.gz file of reference data"
-                diskSize: "The size of the disk allocated to the root directory, which can be changed to accomodate the size of the bam files used"
+                oxoq: "Value of the OxoQ metric for bam_tumor. (<20 results in heavy filtering, 40+ results in minimal filtering)"
+                output_disk_gb: "The size of the disk allocated to the root directory, which can be changed to accomodate the size of the bam files used"
+                input_vcf_gz: "Tabix-compressed VCF of variants to filter"
+                input_vcf_gz_tbi: "Index for tabix-compressed VCF"
+                ram_gb: "GB RAM for VM"
+                cpu_cores: "Number of cores for VM"
         }
 
         output {
@@ -169,7 +206,10 @@ fid.close()
 
         File failing_intermediates="failing_intermediates.tar"
 
-
+        File oxoG_supplementary_tar_gz = "output_files/sample.oxoG.supplementary.tar.gz"
+        File oxoG_vcf_gz = "output_files/sample.oxoG.vcf.gz"
+        File oxoG_vcf_gz_tbi = "output_files/sample.oxoG.vcf.gz.tbi"
+        File oxoG_maf = "output_files/sample.oxoG.maf"
 
         }
 

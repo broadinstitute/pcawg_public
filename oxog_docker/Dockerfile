@@ -97,6 +97,9 @@ ENV CACHE_UPDATE 4
 #This is nededed for output hack on oxoG filter.
 RUN apt-get install -y tightvncserver
 
+#monitor log
+RUN apt-get install dstat
+
 
 ADD modules /cga/fh/pcawg_pipeline/modules
 #ENV LD_LIBRARY_PATH=$MCR_LD_LIBRARY_PATH
