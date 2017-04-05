@@ -1,24 +1,9 @@
 Copyrights contained within Broad_PCAWG_variant-calling-pipeline
 
-OxoQ, Copyright 2012-2015 The Broad Institute, Inc.  All rights reserved.
-ReCapSegCoverageWGS, Copyright 2011-2015 The Broad Institute, Inc.  All rights reserved.
-Snowman, Copyright 2013-2015 The Broad Institute, Inc.  All rights reserved.
-VariantBam, Copyright 2015 The Broad Institute, Inc.  All rights reserved.
-callstats_to_maflite, Copyright 2012-2015 The Broad Institute, Inc.  All rights reserved.
-ContEst, Copyright 2011-2015 The Broad Institute, Inc.  All rights reserved.
-dRanger, Copyright 2010-2015 The Broad Institute, Inc.  All rights reserved.
-dRanger2VCF, Copyright 2011-2015 The Broad Institute, Inc.  All rights reserved.
-dRangerFinalize, Copyright 2010-2015 The Broad Institute, Inc.  All rights reserved.
-dRangerPreprocess, Copyright 2010-2015 The Broad Institute, Inc.  All rights reserved.
-dRangerRun, Copyright 2010-2015 The Broad Institute, Inc.  All rights reserved.
-dRanger_BreakPointer, Copyright 2011-2015 The Broad Institute, Inc.  All rights reserved.
-extract_bam_id, Copyright 2015 The Broad Institute, Inc.  All rights reserved.
-fragCounter, Copyright 2015 The Broad Institute, Inc.  All rights reserved.
-getDrangerSupportingReads, Copyright 2014-2015 The Broad Institute, Inc.  All rights reserved.
-HaplotypeCaller, Copyright 2010-2015 The Broad Institute, Inc.  All rights reserved.
-MuTect, Copyright 2012-2015 The Broad Institute, Inc.  All rights reserved.
-Oncotator, Copyright 2010-2015 The Broad Institute, Inc.  All rights reserved.
-tokens, Copyright 2012-2015 The Broad Institute, Inc.  All rights reserved.
-Pipette, Copyright 2011-2015 The Broad Institute, Inc.  All rights reserved.
+OxoQ, Copyright 2012-2017 The Broad Institute, Inc.  All rights reserved.
+callstats_to_maflite, Copyright 2012-2017 The Broad Institute, Inc.  All rights reserved.
+MuTect, Copyright 2012-2017 The Broad Institute, Inc.  All rights reserved.
+Oncotator, Copyright 2010-2017 The Broad Institute, Inc.  All rights reserved.
+Pipette, Copyright 2011-2017 The Broad Institute, Inc.  All rights reserved.
 
  
