@@ -1,0 +1,46 @@
+[task]
+
+####
+# The name of the project.  If not provided, this will default to
+# the name of the directory containing this file.
+####
+name: annotatePicardOxoQ
+
+####
+# Module version
+####
+
+####
+# Command line to be invoked to run this job
+#
+# To reference any files that are part of this module, prefix with <libdir>.
+####
+command: sh <libdir>/annotatePicardOxoQ.sh ${t "-i " id} ${f "-b " bam_file} ${f "-r " reference_fasta}  ${f "-d " dbSNP_vcf}  ${t "-c " context=CCG}  ${t,o "-o " output=.}
+
+####
+# Task description
+####
+description: extract oxoQ metric value from picard oxog_metric file with bam.
+
+####
+# Colon separated list of directories to be included in this project
+####
+projectDirs: .
+
+####
+# buildDir is the directory (relative to hydrant.deploy) where the build command will be run
+####
+#buildDir: .
+#build:
+
+####
+# directory (relative to buildDir) where executables will be stored.  Defaults to
+####
+#execDir: .
+
+installTarget = firehose
+
+[runtime]
+#executor: LSF
+max_memory: 4
+#lsf_queue:
